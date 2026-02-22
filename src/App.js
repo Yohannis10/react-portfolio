@@ -1,4 +1,5 @@
 
+import './components/NavBar/navbar.js';
 function App() {
   return (
     <div className="App">
